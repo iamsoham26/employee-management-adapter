@@ -1,5 +1,7 @@
 com\labcorp\employee\domain\Employee.class
-com\labcorp\employee\domain\SalarizedEmployee.class
+com\labcorp\employee\controller\EmployeeRestController.class
 com\labcorp\employee\domain\ManagerEmployee.class
+com\labcorp\employee\service\EmployeeService.class
+com\labcorp\employee\domain\SalarizedEmployee.class
 com\labcorp\employee\domain\HourlyEmployee.class
 com\labcorp\com\employee\EmployeeApplication.class

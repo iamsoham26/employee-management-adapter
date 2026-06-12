@@ -1,4 +1,4 @@
-package com.labcorp.com.employee;
+package com.labcorp.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
